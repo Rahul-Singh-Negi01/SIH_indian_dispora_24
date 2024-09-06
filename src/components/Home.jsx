@@ -1,7 +1,3 @@
-// <<<<<<< main
-// import React from "react";
-// import img1 from "./img1.webp";
-
 import home1 from "../img-folder/home1.jpg";
 
 import home7 from "../img-folder/home7.jpg";
@@ -32,19 +28,12 @@ import choices6 from "../img-folder/choices6.jpg";
 
 import craft_img1 from "../img-folder/craft_img1.jpg";
 import craft_img2 from "../img-folder/craft_img2.jpg";
-
 import home_craft1 from "../img-folder/home_craft1.jpg";
-
 import home_craft2 from "../img-folder/home_craft2.jpg";
-
 import home_craft3 from "../img-folder/home_craft3.jpg";
-
 import home_craft4 from "../img-folder/home_craft4.jpg";
-
 import home_craft5 from "../img-folder/home_craft5.jpg";
-
 import home_craft6 from "../img-folder/home_craft6.jpg";
-
 import "../styles/story.css";
 
 function Home() {

@@ -9,6 +9,10 @@ body{
     height:100vh;
 }
 
+.shop{
+    background-color: white;
+}
+
 .shop-container{
     width:100%;
     height:auto;

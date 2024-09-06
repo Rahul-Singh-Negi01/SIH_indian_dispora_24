@@ -1,6 +1,8 @@
+import "../styles/shop.css"
+
 function Shop() {
   return (
-    <>
+    <div className="shop">
       <div className="shop-container">
         <div className="women-category">
           <div className="women-head">
@@ -1390,7 +1392,7 @@ function Shop() {
         <p>© Janani 2024</p>
         <p>Curated In India</p>
       </div>
-    </>
+    </div>
   );
 }
 
